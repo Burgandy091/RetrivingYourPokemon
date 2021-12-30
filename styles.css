@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(235, 124, 235);
+    align-items: center;
+}
+
+
+ 
+ h1 {
+    color: forestgreen;
+    position: center;
+    font: 50px;
+   font-family:sans-serif;
+   
+  
+} 
+img {
+ border-radius:10em ;
+}
+
+ #search-pokemon {
+    padding: 3em;
+    border-radius: 10em;
+    background-color: yellowgreen;
+    text-align: center;
+}  
+  
+button {
+border-radius: 5%;
+background-color: thistle;
+color: black;
+}
+
+ .pokemon-list {
+     color: red;
+     padding: 2em;
+     font-size: larger;
+ }
+
+
+
+
+
+
